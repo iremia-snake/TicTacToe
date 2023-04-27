@@ -1,0 +1,11 @@
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+D:\програмирование\Тех -- C#\VisualStudio\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
